@@ -17,8 +17,8 @@ A visually appealing "Coming Soon" countdown page designed for an upcoming event
 - **JavaScript**: For dynamic countdown functionality.
 
 ## 📅 Countdown Date
-The countdown is set to target January 15, 2025, at 12:00 PM. You can update the target date in the JavaScript code inside the <script> tag:
-`const targetDate = new Date("2027-01-15T12:00:00").getTime();`
+The countdown is set to target January 01, 2027, at 12:00 AM. You can update the target date in the JavaScript code inside the <script> tag:
+`const targetDate = new Date("2027-01-01T00:00:00").getTime();`
 
 ## 🖼️ Screenshots
 ![Desktop View](Screenshot.png)
