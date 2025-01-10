@@ -20,5 +20,8 @@ A visually appealing "Coming Soon" countdown page designed for an upcoming event
 The countdown is set to target January 01, 2027, at 12:00 AM. You can update the target date in the JavaScript code inside the <script> tag:
 `const targetDate = new Date("2027-01-01T00:00:00").getTime();`
 
+## Contact
+If you have any questions or feedback, feel free to reach out via the contact form on the website or directly via email: habibur@hrtechcity.com.
+
 ## 🖼️ Screenshots
 ![Desktop View](Screenshot.png)
